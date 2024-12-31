@@ -1,7 +1,7 @@
 @font-face { /* 웹폰트 -> 인터넷에서 다운로드 받은 폰트 */
-    font-family: 'Gyeonggi_Batang_Regular';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff') format('woff');
-    font-weight: 400;
+    font-family: 'GongGothicMedium';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10@1.0/GongGothicMedium.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
 }
 
@@ -170,6 +170,6 @@ html{
     z-index: 100; /* 다른 요소보다 z축으로 제일 위에 존재 */
 
     /* 웹폰트 적용 */
-    font-family: 'Gyeonggi_Batang_Regular';
+    font-family: 'GongGothicMedium';
     font-size: 40px;
 }
